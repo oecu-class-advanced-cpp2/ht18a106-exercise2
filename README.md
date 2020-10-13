@@ -1,2 +1,3 @@
 mikan
 sute-ki
+soba
